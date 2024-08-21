@@ -8,7 +8,7 @@
 4. <i>Exploitation</i>, as such the unfair use of this work to cause statuary and liable harm;
 5. <i>PR</i>, pull request is a method to forge your work inside this repository.
 ## Risks
-We provide this material free of cost, for anyone to access thereof, but with certain limitations of liability, to you. The work presented here, comes under the following risks, which are not limited to,
+We provide this material free of cost, for anyone to access thereof, but with certain limitations of liability arising from vulnerabilities, to you. The work presented here, comes under the following risks, which are not limited to,
 1. Exploitation for financial gains
 2. Exploitation for damages
 3. Exploitation for copyright violation
