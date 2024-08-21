@@ -4,8 +4,7 @@ Physics was undertaken by me in September, during GCE A Levels beginning at Beac
 |#|Name|Institution|Qualification|Country| |
 |--|----|----------|-------------|-------|-|
 |1|Faisal Jaber Abbasi|Beaconhouse School System|GCE A Levels|🇵🇰|25 September 2023-|
-### Motivation
-The fading interest in Mathematics and shifting to Physics is a result of my hatred to communism and it's representing illegal immigrants. This hatred is not limited to but extends to the representation citizens of Republic of China, Laos, Cuba, Vietnam, Democratic Republic of North Korea. However, this is a non-violent solidarity with the Baloch people and international opressed citizens who escaped the shackles of slavery while condemning those who spread around the world to promote this racial system and cause chaos.
+
 ### Copyright Declaration
 ```
 This repository is non-commercial student-led document falling under Copyright, Designs and
