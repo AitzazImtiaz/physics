@@ -4,7 +4,7 @@ Physics was undertaken by me in September, during GCE A Levels beginning at Beac
 |#|Name|Institution|Qualification|Country| |
 |--|----|----------|-------------|-------|-|
 |1|Faisal Jaber Abbasi|Beaconhouse School System|GCE A Levels|🇵🇰|25 September 2023-|
-
+|2|Asim Shah|Beaconhouse School System| GCE A Levels| 🇵🇰| 20 August 2024-|
 ### Copyright Declaration
 ```
 This repository is non-commercial student-led document falling under Copyright, Designs and
